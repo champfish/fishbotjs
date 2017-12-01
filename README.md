@@ -1,0 +1,2 @@
+# fishbotjs
+Discord Bot
