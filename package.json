@@ -1,1 +1,17 @@
-
+{
+  "name": "DiscordBot",
+  "version": "0.1.1",
+  "description": "Bot for Discord app",
+  "readme": "README.md",
+  "maintainers": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champfish/fishbotjs.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "11.1.x"
+  },
+  "main": "app.js"
+}
