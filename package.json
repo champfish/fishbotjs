@@ -1,10 +1,10 @@
 {
-  "name": "DiscordBot",
+  "name": "FishBotJS",
   "version": "0.1.1",
   "description": "Bot for Discord app",
   "readme": "README.md",
   "maintainers": [],
-  "author": "",
+  "author": "champfish",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/champfish/fishbotjs.git"
